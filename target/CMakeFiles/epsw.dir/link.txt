@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/epsw.dir/link.d CMakeFiles/epsw.dir/src/main.c.o -o epsw
